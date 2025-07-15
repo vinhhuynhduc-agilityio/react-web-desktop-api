@@ -30,7 +30,7 @@
 			"category": "Computer Science",
 			"publishedYear": 2000,
 			"rating": 4.5,
-			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752496979/4aa430788b3938ca7d778a99fe0ff1587c81c67e_1_hsfarj.jpg"
+			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752568115/4aa430788b3938ca7d778a99fe0ff1587c81c67e_1_hsfarj_em1rab.webp"
 		},
 		{
 			"id": "2",
@@ -54,7 +54,7 @@
 			"category": "Computer Science",
 			"publishedYear": 2000,
 			"rating": 4.5,
-			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752497086/b67759ec4ea8cc0024b38f7b7739a7dfe9f46d37_kk9p0l.jpg"
+			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752568404/b67759ec4ea8cc0024b38f7b7739a7dfe9f46d37_kk9p0l_aqjt3s.webp"
 		},
 		{
 			"id": "4",
@@ -66,7 +66,7 @@
 			"category": "Computer Science",
 			"publishedYear": 2016,
 			"rating": 4.5,
-			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752497093/6ccaf5fa695405b983261085501a453a7ea36be9_r8h2bk.png"
+			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752568408/6ccaf5fa695405b983261085501a453a7ea36be9_r8h2bk_mo9squ.webp"
 		},
 		{
 			"id": "5",
@@ -78,7 +78,7 @@
 			"category": "Computer Science",
 			"publishedYear": 2000,
 			"rating": 4.5,
-			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752497102/b1a23a06578bb2c400472c891aab5497d9eaa5fc_lrn9x8.jpg"
+			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752568412/b1a23a06578bb2c400472c891aab5497d9eaa5fc_lrn9x8_kicraq.webp"
 		},
 		{
 			"id": "6",
@@ -90,7 +90,7 @@
 			"category": "Financial MGMT",
 			"publishedYear": 1997,
 			"rating": 4.5,
-			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752497110/8ed4a2887acf81db7212c313ea99805d910b9aa0_pwqbzu.jpg"
+			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752568415/8ed4a2887acf81db7212c313ea99805d910b9aa0_pwqbzu_ppwdfd.webp"
 		},
 		{
 			"id": "7",
@@ -102,7 +102,7 @@
 			"category": "Computer Science",
 			"publishedYear": 2002,
 			"rating": 4.5,
-			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752497118/59a1390334fbf8df7c7eaf4a25b22994820bce6b_wljbyz.jpg"
+			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752568419/59a1390334fbf8df7c7eaf4a25b22994820bce6b_wljbyz_cdecau.webp"
 		},
 		{
 			"id": "8",
@@ -114,7 +114,7 @@
 			"category": "Computer Science",
 			"publishedYear": 2014,
 			"rating": 4.9,
-			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752497124/ade71d774524ddc7d0fe7d77245848f526b7b8b7_bwk3fz.png"
+			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752568422/ade71d774524ddc7d0fe7d77245848f526b7b8b7_bwk3fz_zw4tp2.webp"
 		}
 	],
 	"shelves": [
