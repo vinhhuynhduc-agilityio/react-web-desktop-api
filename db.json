@@ -30,7 +30,7 @@
 			"category": "Computer Science",
 			"publishedYear": 2000,
 			"rating": 4.5,
-			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752568115/4aa430788b3938ca7d778a99fe0ff1587c81c67e_1_hsfarj_em1rab.webp"
+			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/w_130,h_170,c_fill,f_auto,q_auto/v1753157928/4aa430788b3938ca7d778a99fe0ff1587c81c67e_1_hsfarj_qpn4fz.webp"
 		},
 		{
 			"id": "2",
@@ -42,7 +42,7 @@
 			"category": "Computer Science",
 			"publishedYear": 1988,
 			"rating": 4.5,
-			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752497076/cc2b60105e5d1b5aeba05608803badb375872868_izt4ra.jpg"
+			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/w_130,h_170,c_fill,f_auto,q_auto/v1753157924/cc2b60105e5d1b5aeba05608803badb375872868_izt4ra_fwlmhg.webp"
 		},
 		{
 			"id": "3",
@@ -54,7 +54,7 @@
 			"category": "Computer Science",
 			"publishedYear": 2000,
 			"rating": 4.5,
-			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752568404/b67759ec4ea8cc0024b38f7b7739a7dfe9f46d37_kk9p0l_aqjt3s.webp"
+			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/w_130,h_170,c_fill,f_auto,q_auto/v1753157920/b67759ec4ea8cc0024b38f7b7739a7dfe9f46d37_kk9p0l_t1oaq7.webp"
 		},
 		{
 			"id": "4",
@@ -66,7 +66,7 @@
 			"category": "Computer Science",
 			"publishedYear": 2016,
 			"rating": 4.5,
-			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752568408/6ccaf5fa695405b983261085501a453a7ea36be9_r8h2bk_mo9squ.webp"
+			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/w_130,h_170,c_fill,f_auto,q_auto/v1753157917/6ccaf5fa695405b983261085501a453a7ea36be9_r8h2bk_ktzfuq.webp"
 		},
 		{
 			"id": "5",
@@ -78,7 +78,7 @@
 			"category": "Computer Science",
 			"publishedYear": 2000,
 			"rating": 4.5,
-			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752568412/b1a23a06578bb2c400472c891aab5497d9eaa5fc_lrn9x8_kicraq.webp"
+			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/w_130,h_170,c_fill,f_auto,q_auto/v1753157909/b1a23a06578bb2c400472c891aab5497d9eaa5fc_lrn9x8_uoyg1a.webp"
 		},
 		{
 			"id": "6",
@@ -90,7 +90,7 @@
 			"category": "Financial MGMT",
 			"publishedYear": 1997,
 			"rating": 4.5,
-			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752568415/8ed4a2887acf81db7212c313ea99805d910b9aa0_pwqbzu_ppwdfd.webp"
+			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/w_130,h_170,c_fill,f_auto,q_auto/v1753157908/8ed4a2887acf81db7212c313ea99805d910b9aa0_pwqbzu_zaff8g.webp"
 		},
 		{
 			"id": "7",
@@ -102,7 +102,7 @@
 			"category": "Computer Science",
 			"publishedYear": 2002,
 			"rating": 4.5,
-			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752568419/59a1390334fbf8df7c7eaf4a25b22994820bce6b_wljbyz_cdecau.webp"
+			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/w_130,h_170,c_fill,f_auto,q_auto/v1753157905/59a1390334fbf8df7c7eaf4a25b22994820bce6b_wljbyz_oworkt.webp"
 		},
 		{
 			"id": "8",
@@ -114,7 +114,7 @@
 			"category": "Computer Science",
 			"publishedYear": 2014,
 			"rating": 4.9,
-			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/v1752568422/ade71d774524ddc7d0fe7d77245848f526b7b8b7_bwk3fz_zw4tp2.webp"
+			"imageUrl": "https://res.cloudinary.com/dz0z0qlal/image/upload/w_130,h_170,c_fill,f_auto,q_auto/v1753157290/ade71d774524ddc7d0fe7d77245848f526b7b8b7_bwk3fz_na60ui.webp"
 		}
 	],
 	"shelves": [
