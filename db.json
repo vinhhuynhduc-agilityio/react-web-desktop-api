@@ -2076,7 +2076,7 @@
       "continent": "Europe",
       "form": "Republic",
       "gdp": 763.704,
-      "oil": 0.0,
+      "oil": 0,
       "balance": 84.443,
       "key": 208
     },
@@ -2086,7 +2086,7 @@
       "continent": "Europe",
       "form": "Republic",
       "gdp": 989.932,
-      "oil": 0.0,
+      "oil": 0,
       "balance": 94.34,
       "key": 209
     },
@@ -2096,7 +2096,7 @@
       "continent": "Europe",
       "form": "Republic",
       "gdp": 1299.703,
-      "oil": 0.0,
+      "oil": 0,
       "balance": 77.012,
       "key": 210
     },
@@ -2106,7 +2106,7 @@
       "continent": "Europe",
       "form": "Republic",
       "gdp": 1660.846,
-      "oil": 0.0,
+      "oil": 0,
       "balance": 103.722,
       "key": 211
     },
@@ -2116,7 +2116,7 @@
       "continent": "Europe",
       "form": "Republic",
       "gdp": 1222.693,
-      "oil": 0.0,
+      "oil": 0,
       "balance": 49.518,
       "key": 212
     },
@@ -2146,7 +2146,7 @@
       "continent": "Europe",
       "form": "Republic",
       "gdp": 1953.555,
-      "oil": 0.0,
+      "oil": 0,
       "balance": 101.693,
       "key": 215
     },
@@ -2796,15 +2796,15 @@
       "id": "550e8400-e29b-41d4-a716-446655440000",
       "text": "Performance tests",
       "tags": ["webix"],
-      "status": "In Progress",
-      "order": 0
+      "x": 2,
+      "y": 0
     },
     {
       "id": "550e8400-e29b-41d4-a716-446655440001",
       "text": "Test service",
       "tags": ["jet"],
-      "status": "Testing",
-      "order": 1
+      "x": 1,
+      "y": 0
     }
   ]
 }
