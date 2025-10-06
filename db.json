@@ -2793,18 +2793,18 @@
   ],
   "kanbans": [
     {
-      "id": "550e8400-e29b-41d4-a716-446655440000",
-      "text": "Performance tests",
+      "id": "e2c50312-650d-41dc-86c9-855970e96957",
+      "text": "Performance",
       "tags": ["webix"],
-      "x": 2,
-      "y": 0
+      "progressStatus": "Testing",
+      "order": 0
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440001",
-      "text": "Test service",
+      "id": "e1ba2580-fd31-445b-9d9e-943790ffd380",
+      "text": "Testing",
       "tags": ["jet"],
-      "x": 1,
-      "y": 0
+      "progressStatus": "In Progress",
+      "order": 0
     }
   ]
 }
