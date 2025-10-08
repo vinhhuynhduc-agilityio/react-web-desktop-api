@@ -2796,14 +2796,28 @@
       "id": "e2c50312-650d-41dc-86c9-855970e96957",
       "text": "Performance",
       "tags": ["webix"],
-      "progressStatus": "Testing",
+      "progressStatus": "Work",
       "order": 0
     },
     {
       "id": "e1ba2580-fd31-445b-9d9e-943790ffd380",
-      "text": "Testing",
+      "text": "Test",
       "tags": ["jet"],
-      "progressStatus": "In Progress",
+      "progressStatus": "Test",
+      "order": 0
+    },
+    {
+      "id": "f394221d-b69c-41b1-b2cd-b8b6e7a70858",
+      "text": "New Task 1",
+      "tags": [],
+      "progressStatus": "New",
+      "order": 0
+    },
+    {
+      "id": "ff0771b2-1da7-4c4b-bde5-c944ce808df4",
+      "text": "New Task 2",
+      "tags": [],
+      "progressStatus": "Done",
       "order": 0
     }
   ]
