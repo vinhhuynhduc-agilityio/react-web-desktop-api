@@ -2791,34 +2791,91 @@
       "key": 279
     }
   ],
-  "kanbans": [
+  "board": [
     {
-      "id": "e2c50312-650d-41dc-86c9-855970e96957",
-      "text": "Performance",
-      "tags": ["webix"],
-      "progressStatus": "Work",
-      "order": 0
-    },
-    {
-      "id": "e1ba2580-fd31-445b-9d9e-943790ffd380",
-      "text": "Test",
-      "tags": ["jet"],
-      "progressStatus": "Test",
-      "order": 0
-    },
-    {
-      "id": "f394221d-b69c-41b1-b2cd-b8b6e7a70858",
-      "text": "New Task 1",
-      "tags": [],
+      "id": "new",
       "progressStatus": "New",
-      "order": 0
+      "taskIds": [
+        "1bbd1914-bfef-4d74-a14c-6a346e0ff405",
+        "22e9acba-d0ed-4d0a-9492-29b62aa01b74"
+      ],
+      "taskOrders": {
+        "1bbd1914-bfef-4d74-a14c-6a346e0ff405": 0,
+        "22e9acba-d0ed-4d0a-9492-29b62aa01b74": 1
+      }
     },
     {
-      "id": "ff0771b2-1da7-4c4b-bde5-c944ce808df4",
-      "text": "New Task 2",
-      "tags": [],
+      "id": "work",
+      "progressStatus": "Work",
+      "taskIds": ["5ee46a29-510b-4e23-8049-10a1b1f1094c", "Hello"],
+      "taskOrders": {
+        "5ee46a29-510b-4e23-8049-10a1b1f1094c": 0,
+        "Hello": 1
+      }
+    },
+    {
+      "id": "test",
+      "progressStatus": "Test",
+      "taskIds": [
+        "07393151-6d3a-4d43-8dff-035ebb5ad646",
+        "cb80c436-8cd5-4627-b07d-d4a76b4c823b",
+        "Performance"
+      ],
+      "taskOrders": {
+        "07393151-6d3a-4d43-8dff-035ebb5ad646": 0,
+        "cb80c436-8cd5-4627-b07d-d4a76b4c823b": 1,
+        "Performance": 2
+      }
+    },
+    {
+      "id": "done",
       "progressStatus": "Done",
-      "order": 0
+      "taskIds": ["Test"],
+      "taskOrders": {
+        "Test": 0
+      }
+    }
+  ],
+  "tasks": [
+    {
+      "id": "Hello",
+      "title": "Hello11",
+      "tags": ["webix", "jet"]
+    },
+    {
+      "id": "Performance",
+      "title": "Performance1",
+      "tags": ["webix", "jet", "easy"]
+    },
+    {
+      "id": "Test",
+      "title": "Test123",
+      "tags": ["jet"]
+    },
+    {
+      "id": "07393151-6d3a-4d43-8dff-035ebb5ad646",
+      "title": "New Task 1",
+      "tags": []
+    },
+    {
+      "id": "1bbd1914-bfef-4d74-a14c-6a346e0ff405",
+      "title": "New Task ",
+      "tags": ["webix", "jet"]
+    },
+    {
+      "id": "5ee46a29-510b-4e23-8049-10a1b1f1094c",
+      "title": "New Task 2121132",
+      "tags": ["webix", "jet", "easy"]
+    },
+    {
+      "id": "22e9acba-d0ed-4d0a-9492-29b62aa01b74",
+      "title": "New Task 1",
+      "tags": []
+    },
+    {
+      "id": "cb80c436-8cd5-4627-b07d-d4a76b4c823b",
+      "title": "New Task 1",
+      "tags": []
     }
   ]
 }
