@@ -2877,5 +2877,74 @@
       "title": "New Task 1",
       "tags": []
     }
+  ],
+  "files": [
+    {
+      "id": "root",
+      "name": "My Files",
+      "type": "folder",
+      "size": 0,
+      "date": "14 October 2025",
+      "parentId": null
+    },
+    {
+      "id": "code",
+      "name": "Code",
+      "type": "folder",
+      "size": 0,
+      "date": "14 October 2025",
+      "parentId": "root"
+    },
+    {
+      "id": "documents",
+      "name": "Documents",
+      "type": "folder",
+      "size": 0,
+      "date": "14 October 2025",
+      "parentId": "root"
+    },
+    {
+      "id": "music",
+      "name": "Music",
+      "type": "folder",
+      "size": 0,
+      "date": "14 October 2025",
+      "parentId": "root"
+    },
+    {
+      "id": "photos",
+      "name": "Photos",
+      "type": "folder",
+      "size": 0,
+      "date": "14 October 2025",
+      "parentId": "root"
+    },
+    {
+      "id": "22png",
+      "name": "22.png",
+      "type": "png",
+      "size": 459,
+      "date": "14 October 2025",
+      "parentId": "root",
+      "content": null
+    },
+    {
+      "id": "data12xlsx",
+      "name": "Data (12).xlsx",
+      "type": "xlsx",
+      "size": 55.2,
+      "date": "14 October 2025",
+      "parentId": "root",
+      "content": null
+    },
+    {
+      "id": "readmetxt",
+      "name": "readme.txt",
+      "type": "txt",
+      "size": 0.128,
+      "date": "14 October 2025",
+      "parentId": "root",
+      "content": "This is a sample readme file."
+    }
   ]
 }
