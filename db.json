@@ -2925,8 +2925,7 @@
       "type": "png",
       "size": 459,
       "date": "14 October 2025",
-      "parentId": "root",
-      "content": null
+      "parentId": "root"
     },
     {
       "id": "data12xlsx",
@@ -2934,8 +2933,7 @@
       "type": "xlsx",
       "size": 55.2,
       "date": "14 October 2025",
-      "parentId": "root",
-      "content": null
+      "parentId": "root"
     },
     {
       "id": "readmetxt",
@@ -2945,6 +2943,196 @@
       "date": "14 October 2025",
       "parentId": "root",
       "content": "This is a sample readme file."
+    },
+    {
+      "id": "accordion_less",
+      "name": "accordion.less",
+      "type": "less",
+      "size": 2.0,
+      "parentId": "code"
+    },
+    {
+      "id": "barcode_less",
+      "name": "barcode.less",
+      "type": "less",
+      "size": 0.201,
+      "parentId": "code"
+    },
+    {
+      "id": "bulletgraph_less",
+      "name": "bulletgraph.less",
+      "type": "less",
+      "size": 0.201,
+      "parentId": "code"
+    },
+    {
+      "id": "button_less",
+      "name": "button.less",
+      "type": "less",
+      "size": 2.8,
+      "parentId": "code"
+    },
+    {
+      "id": "calendar_less",
+      "name": "calendar.less",
+      "type": "less",
+      "size": 4.2,
+      "parentId": "code"
+    },
+    {
+      "id": "carousel_less",
+      "name": "carousel.less",
+      "type": "less",
+      "size": 3.9,
+      "parentId": "code"
+    },
+    {
+      "id": "chart_less",
+      "name": "chart.less",
+      "type": "less",
+      "size": 3.7,
+      "parentId": "code"
+    },
+    {
+      "id": "colorpicker_less",
+      "name": "colorpicker.less",
+      "type": "less",
+      "size": 0.49,
+      "parentId": "code"
+    },
+    {
+      "id": "comments_less",
+      "name": "comments.less",
+      "type": "less",
+      "size": 2.7,
+      "parentId": "code"
+    },
+    {
+      "id": "console_less",
+      "name": "console.less",
+      "type": "less",
+      "size": 0.949,
+      "parentId": "code"
+    },
+    {
+      "id": "datatable_less",
+      "name": "datatable.less",
+      "type": "less",
+      "size": 8.4,
+      "parentId": "code"
+    },
+    {
+      "id": "webix_pdf",
+      "name": "Webix.pdf",
+      "type": "pdf",
+      "size": 535.5,
+      "parentId": "documents"
+    },
+    {
+      "id": "bensound_betterdays_mp3",
+      "name": "bensound-betterdays.mp3",
+      "type": "mp3",
+      "size": 2252.8,
+      "parentId": "music"
+    },
+    {
+      "id": "bensound_buddy_mp3",
+      "name": "bensound-buddy.mp3",
+      "type": "mp3",
+      "size": 1740.8,
+      "parentId": "music"
+    },
+    {
+      "id": "bensound_funnysong_mp3",
+      "name": "bensound-funnysong.mp3",
+      "type": "mp3",
+      "size": 2662.4,
+      "parentId": "music"
+    },
+    {
+      "id": "readme_music_txt",
+      "name": "readme.txt",
+      "type": "txt",
+      "size": 0.031,
+      "parentId": "music",
+      "content": "This is a sample readme file."
+    },
+    {
+      "id": "2019_12_01_11_19_05_JPG",
+      "name": "2019-12-01 11-19-05.JPG",
+      "type": "jpg",
+      "size": 2560,
+      "parentId": "photos"
+    },
+    {
+      "id": "2019_12_01_11_21_52_JPG",
+      "name": "2019-12-01 11-21-52.JPG",
+      "type": "jpg",
+      "size": 2969.6,
+      "parentId": "photos"
+    },
+    {
+      "id": "2019_12_01_13_04_48_JPG",
+      "name": "2019-12-01 13-04-48.JPG",
+      "type": "jpg",
+      "size": 5939.2,
+      "parentId": "photos"
+    },
+    {
+      "id": "2019_12_07_13_20_51_JPG",
+      "name": "2019-12-07 13-20-51.JPG",
+      "type": "jpg",
+      "size": 4198.4,
+      "parentId": "photos"
+    },
+    {
+      "id": "2019_12_07_14_23_18_JPG",
+      "name": "2019-12-07 14-23-18.JPG",
+      "type": "jpg",
+      "size": 3891.2,
+      "parentId": "photos"
+    },
+    {
+      "id": "2019_12_08_12_19_54_JPG",
+      "name": "2019-12-08 12-19-54.JPG",
+      "type": "jpg",
+      "size": 4096,
+      "parentId": "photos"
+    },
+    {
+      "id": "2019_12_08_17_47_38_JPG",
+      "name": "2019-12-08 17-47-38.JPG",
+      "type": "jpg",
+      "size": 6758.4,
+      "parentId": "photos"
+    },
+    {
+      "id": "2019_12_14_11_56_33_JPG",
+      "name": "2019-12-14 11-56-33.JPG",
+      "type": "jpg",
+      "size": 2764.8,
+      "parentId": "photos"
+    },
+    {
+      "id": "2019_12_14_11_58_35_JPG",
+      "name": "2019-12-14 11-58-35.JPG",
+      "type": "jpg",
+      "size": 2355.2,
+      "parentId": "photos"
+    },
+    {
+      "id": "2019_12_17_13_22_17_JPG",
+      "name": "2019-12-17 13-22-17.JPG",
+      "type": "jpg",
+      "size": 5222.4,
+      "parentId": "photos"
+    },
+    {
+      "id": "2019_12_21_17_47_23_JPG",
+      "name": "2019-12-21 17-47-23.JPG",
+      "type": "jpg",
+      "size": 2252.8,
+      "parentId": "photos"
     }
   ]
 }
